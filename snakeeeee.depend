@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1419064497 source:c:\users\kenan\desktop\zadaca tp\treca zadaca\snakeeeee\main.c
-	<stdio.h>
-	<stdlib.h>
-	<windows.h>
-	<conio.h>
-

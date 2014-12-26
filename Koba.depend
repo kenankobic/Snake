@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1419370664 source:c:\users\user\desktop\koba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+
+1419501582 source:d:\projekti\koba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+
